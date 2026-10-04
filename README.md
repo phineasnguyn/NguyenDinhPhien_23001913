@@ -7,16 +7,5 @@
 
 ---
 
-## Cấu trúc thư mục kho lưu trữ
-
-```text
-THWeb/
-├── buoi3/
-│   ├── Bài thực hành buổi 3 - MYSQL.pdf
-│   ├── buoi3.sql
-│   └── README.md
-└── README.md
-```
-
 ## Danh sách các buổi thực hành
-- [Buổi 3: Thực hành MySQL (Quản lý giỏ hàng & Quản lý vé xem phim)](./buoi3/README.md)
+- [Buổi 3: Thực hành MySQL (Quản lý giỏ hàng & Quản lý vé xem phim)](./buoi3/buoi3.sql)
