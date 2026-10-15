@@ -9,3 +9,4 @@
 
 ## Danh sách các buổi thực hành
 - [Buổi 3: Thực hành MySQL (Quản lý giỏ hàng & Quản lý vé xem phim)](./buoi3/buoi3.sql)
+- [Buổi 4: Thực hành PHP + MySQL (Quản lý giỏ hàng)](./buoi4/)
