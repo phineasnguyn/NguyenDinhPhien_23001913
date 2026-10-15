@@ -1,4 +1,4 @@
-# BÀI THỰC HÀNH BUỔI 4: PHP + MYSQL – QUẢN LÝ GIỎ HÀNG
+# BÀI THỰC HÀNH BUỔI 5: PHP + MYSQL – QUẢN LÝ GIỎ HÀNG
 
 - **Sinh viên:** Nguyễn Đình Phiên
 - **Mã sinh viên:** 23001913
@@ -10,7 +10,7 @@
 ## 1. Cấu trúc thư mục dự án
 
 ```text
-buoi4/
+buoi5/
 ├── app/
 │   ├── common/
 │   │   ├── auth.php              # Kiểm soát phiên làm việc (Session) & chặn truy cập trái phép
@@ -34,7 +34,7 @@ buoi4/
 │   └── product_delete.php        # Xóa sản phẩm theo ID (Có xác nhận & thông báo khi không tồn tại)
 ├── index.php                     # Chuyển hướng tự động vào app/index.php
 ├── shopping_cart.sql             # Script SQL tạo database, bảng products, users và dữ liệu mẫu
-├── buoi4.sql                     # Bản sao file SQL đồng bộ tên buổi học
+├── buoi5.sql                     # Bản sao file SQL đồng bộ tên buổi học
 └── README.md                     # Tài liệu hướng dẫn sử dụng và báo cáo
 ```
 
@@ -48,7 +48,7 @@ buoi4/
 ### Bước 2: Import Cơ sở dữ liệu
 - Mở trình duyệt và truy cập vào **phpMyAdmin** (`http://localhost/phpmyadmin`).
 - Chọn thẻ **Import** (Nhập).
-- Chọn file `shopping_cart.sql` (hoặc `buoi4.sql`) nằm trong thư mục `buoi4/`.
+- Chọn file `shopping_cart.sql` (hoặc `buoi5.sql`) nằm trong thư mục `buoi5/`.
 - Nhấn **Import** / **Thực hiện**.
 - Script sẽ tự động:
   - Tạo database `shopping_cart` (hỗ trợ `utf8mb4`).
@@ -58,11 +58,11 @@ buoi4/
 ### Bước 3: Truy cập ứng dụng trên trình duyệt
 Mở trình duyệt web và truy cập đường dẫn:
 ```text
-http://localhost/THWeb/buoi4/
+http://localhost/THWeb/buoi5/
 ```
 hoặc:
 ```text
-http://localhost/THWeb/buoi4/app/
+http://localhost/THWeb/buoi5/app/
 ```
 
 ---

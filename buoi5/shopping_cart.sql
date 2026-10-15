@@ -1,5 +1,5 @@
 -- =======================================================
--- BÀI THỰC HÀNH BUỔI 4: PHP + MYSQL – QUẢN LÝ GIỎ HÀNG
+-- BÀI THỰC HÀNH BUỔI 5: PHP + MYSQL – QUẢN LÝ GIỎ HÀNG
 -- Sinh viên: Nguyễn Đình Phiên
 -- Mã sinh viên: 23001913
 -- Email: 23001913@hus.edu.vn

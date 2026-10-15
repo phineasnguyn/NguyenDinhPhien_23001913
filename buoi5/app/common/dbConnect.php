@@ -1,7 +1,7 @@
 <?php
 /**
  * Kết nối cơ sở dữ liệu MySQL sử dụng PDO
- * Bài thực hành Buổi 4 - Quản lý giỏ hàng
+ * Bài thực hành Buổi 5 - Quản lý giỏ hàng
  * Sinh viên: Nguyễn Đình Phiên - MSV: 23001913
  */
 

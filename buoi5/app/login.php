@@ -1,7 +1,7 @@
 <?php
 /**
  * Chức năng đăng nhập hệ thống
- * Bài thực hành Buổi 4 - Quản lý giỏ hàng
+ * Bài thực hành Buổi 5 - Quản lý giỏ hàng
  * Sinh viên: Nguyễn Đình Phiên - MSV: 23001913
  */
 
